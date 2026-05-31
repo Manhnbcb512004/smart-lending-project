@@ -1,0 +1,9 @@
+PerformanceScore,EmployeeStatus,so_luong_nv,phan_tram_theo_nhom
+Exceeds,Active,306,88.44
+Exceeds,Terminated,40,11.56
+"Fully Meets",Active,1942,86.27
+"Fully Meets",Terminated,309,13.73
+"Needs Improvement",Active,142,87.65
+"Needs Improvement",Terminated,20,12.35
+PIP,Active,68,79.07
+PIP,Terminated,18,20.93

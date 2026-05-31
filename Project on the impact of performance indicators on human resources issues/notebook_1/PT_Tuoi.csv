@@ -1,0 +1,18 @@
+Age_group,PerformanceScore,so_luong_nv,avg_performance_point,efficiency_ratio
+"Nhóm thực tập sinh","Fully Meets",2,3,3.00
+"Nhóm Khởi nghiệp",Exceeds,34,4,0.45
+"Nhóm Khởi nghiệp","Fully Meets",247,3,2.44
+"Nhóm Khởi nghiệp","Needs Improvement",13,2,0.09
+"Nhóm Khởi nghiệp",PIP,10,1,0.03
+"Nhóm Bứt phá",Exceeds,61,4,0.50
+"Nhóm Bứt phá","Fully Meets",379,3,2.35
+"Nhóm Bứt phá","Needs Improvement",28,2,0.12
+"Nhóm Bứt phá",PIP,16,1,0.03
+"Nhóm Cố vấn",Exceeds,119,4,0.54
+"Nhóm Cố vấn","Fully Meets",680,3,2.33
+"Nhóm Cố vấn","Needs Improvement",48,2,0.11
+"Nhóm Cố vấn",PIP,30,1,0.03
+"Nhóm Quản trị",Exceeds,132,4,0.45
+"Nhóm Quản trị","Fully Meets",943,3,2.40
+"Nhóm Quản trị","Needs Improvement",73,2,0.12
+"Nhóm Quản trị",PIP,30,1,0.03

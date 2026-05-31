@@ -1,0 +1,12 @@
+Age_group,PayZone,tong_nv_xuat_sac,so_nv_da_nghi,ty_le_nghi_viec_pct,avg_engagement_nghi_viec,avg_satisfaction_nghi_viec
+"Nhóm Khởi nghiệp","Zone A",15,3,20.00,3.33,3.67
+"Nhóm Quản trị","Zone B",46,9,19.57,2.67,2.78
+"Bứt phá","Zone C",16,3,18.75,3.00,3.67
+"Nhóm Khởi nghiệp","Zone B",11,2,18.18,1.50,4.00
+"Nhóm Cố vấn","Zone A",37,5,13.51,3.40,3.40
+"Bứt phá","Zone B",15,2,13.33,3.50,4.00
+"Bứt phá","Zone A",30,3,10.00,2.33,3.00
+"Nhóm Quản trị","Zone A",43,4,9.30,3.25,2.25
+"Nhóm Cố vấn","Zone C",40,3,7.50,3.67,4.00
+"Nhóm Cố vấn","Zone B",42,3,7.14,3.67,3.33
+"Nhóm Quản trị","Zone C",43,3,6.98,2.33,2.00
