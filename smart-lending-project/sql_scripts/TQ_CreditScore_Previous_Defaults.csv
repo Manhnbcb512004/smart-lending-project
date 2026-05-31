@@ -1,0 +1,7 @@
+credit_score_tier,prior_default_history,total_customer,bad_loans,bad_rate_percentage
+"3. Trung bình (600-699)","lịch sử sạch",4797,2925,60.98
+"3. Trung bình (600-699)","Có lịch sử vỡ nợ",899,899,100.00
+"4. Tốt (700-799)","lịch sử sạch",4665,2854,61.18
+"4. Tốt (700-799)","Có lịch sử vỡ nợ",1001,1001,100.00
+"5. Xuất sắc (>=800)","lịch sử sạch",721,437,60.61
+"5. Xuất sắc (>=800)","Có lịch sử vỡ nợ",165,165,100.00

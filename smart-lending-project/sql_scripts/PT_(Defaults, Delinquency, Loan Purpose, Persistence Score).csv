@@ -1,0 +1,33 @@
+payment_behavior_tier,prior_default_status,Loan_Purpose,persistence_score,total_customers,bad_rate_percentage
+"Xuất sắc (Excellent)","Có vỡ nợ",PERSONAL,"Cấp độ 3: Rủi ro cao",127,100.00
+"Trung bình (Fair)","Có vỡ nợ",BUSINESS,"Cấp độ 3: Rủi ro cao",146,100.00
+"Rủi ro cao (Poor)","Có vỡ nợ",BUSINESS,"Cấp độ 3: Rủi ro cao",125,100.00
+"Rủi ro cao (Poor)","Có vỡ nợ",PERSONAL,"Cấp độ 3: Rủi ro cao",104,100.00
+"Tốt (Good)","Có vỡ nợ",BUSINESS,"Cấp độ 3: Rủi ro cao",140,100.00
+"Xuất sắc (Excellent)","Có vỡ nợ",AUTO,"Cấp độ 3: Rủi ro cao",120,100.00
+"Trung bình (Fair)","Có vỡ nợ",PERSONAL,"Cấp độ 3: Rủi ro cao",135,100.00
+"Xuất sắc (Excellent)","Có vỡ nợ",BUSINESS,"Cấp độ 3: Rủi ro cao",129,100.00
+"Xuất sắc (Excellent)","Có vỡ nợ",HOME,"Cấp độ 3: Rủi ro cao",126,100.00
+"Tốt (Good)","Có vỡ nợ",PERSONAL,"Cấp độ 3: Rủi ro cao",146,100.00
+"Trung bình (Fair)","Có vỡ nợ",AUTO,"Cấp độ 3: Rủi ro cao",114,100.00
+"Tốt (Good)","Có vỡ nợ",AUTO,"Cấp độ 3: Rủi ro cao",123,100.00
+"Trung bình (Fair)","Có vỡ nợ",HOME,"Cấp độ 3: Rủi ro cao",132,100.00
+"Rủi ro cao (Poor)","Có vỡ nợ",AUTO,"Cấp độ 3: Rủi ro cao",139,100.00
+"Rủi ro cao (Poor)","Có vỡ nợ",HOME,"Cấp độ 3: Rủi ro cao",134,100.00
+"Tốt (Good)","Có vỡ nợ",HOME,"Cấp độ 3: Rủi ro cao",125,100.00
+"Trung bình (Fair)","Không vỡ nợ",AUTO,"Cấp độ 2: Cảnh báo",622,63.67
+"Xuất sắc (Excellent)","Không vỡ nợ",BUSINESS,"Cấp độ 1: Ổn định",660,63.48
+"Tốt (Good)","Không vỡ nợ",HOME,"Cấp độ 1: Ổn định",654,63.00
+"Rủi ro cao (Poor)","Không vỡ nợ",BUSINESS,"Cấp độ 2: Cảnh báo",638,62.70
+"Trung bình (Fair)","Không vỡ nợ",PERSONAL,"Cấp độ 2: Cảnh báo",617,62.56
+"Xuất sắc (Excellent)","Không vỡ nợ",PERSONAL,"Cấp độ 1: Ổn định",650,61.38
+"Trung bình (Fair)","Không vỡ nợ",BUSINESS,"Cấp độ 2: Cảnh báo",586,61.26
+"Tốt (Good)","Không vỡ nợ",AUTO,"Cấp độ 1: Ổn định",661,61.12
+"Trung bình (Fair)","Không vỡ nợ",HOME,"Cấp độ 2: Cảnh báo",674,60.98
+"Rủi ro cao (Poor)","Không vỡ nợ",HOME,"Cấp độ 2: Cảnh báo",618,60.84
+"Xuất sắc (Excellent)","Không vỡ nợ",HOME,"Cấp độ 1: Ổn định",621,60.55
+"Tốt (Good)","Không vỡ nợ",PERSONAL,"Cấp độ 1: Ổn định",660,59.70
+"Tốt (Good)","Không vỡ nợ",BUSINESS,"Cấp độ 1: Ổn định",608,59.54
+"Rủi ro cao (Poor)","Không vỡ nợ",AUTO,"Cấp độ 2: Cảnh báo",639,59.31
+"Xuất sắc (Excellent)","Không vỡ nợ",AUTO,"Cấp độ 1: Ổn định",627,59.17
+"Rủi ro cao (Poor)","Không vỡ nợ",PERSONAL,"Cấp độ 2: Cảnh báo",648,57.41
